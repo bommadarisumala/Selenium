@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
-  <reporter-output>
-  </reporter-output>
-  <suite name="Default suite" duration-ms="57004" started-at="2019-05-30T08:16:02Z" finished-at="2019-05-30T08:16:59Z">
-    <groups>
-    </groups>
-    <test name="Default test" duration-ms="57004" started-at="2019-05-30T08:16:02Z" finished-at="2019-05-30T08:16:59Z">
-      <class name="com.suma.selenium.workingwithwindowelements.upload">
-        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:com.suma.selenium.workingwithwindowelements.upload@1c14f68]" name="Launchbrowser" is-config="true" duration-ms="18364" started-at="2019-05-30T13:46:02Z" finished-at="2019-05-30T13:46:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Launchbrowser -->
-        <test-method status="PASS" signature="uploadimage()[pri:0, instance:com.suma.selenium.workingwithwindowelements.upload@1c14f68]" name="uploadimage" duration-ms="38626" started-at="2019-05-30T13:46:21Z" finished-at="2019-05-30T13:46:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- uploadimage -->
-      </class> <!-- com.suma.selenium.workingwithwindowelements.upload -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+	<reporter-output>
+	</reporter-output>
+	<suite name="Default suite" duration-ms="57004" started-at="2019-05-30T08:16:02Z"
+		finished-at="2019-05-30T08:16:59Z">
+		<groups>
+		</groups>
+		<test name="Default test" duration-ms="57004" started-at="2019-05-30T08:16:02Z"
+			finished-at="2019-05-30T08:16:59Z">
+			<class name="com.suma.selenium.workingwithwindowelements.upload">
+				<test-method status="PASS"
+					signature="Launchbrowser()[pri:0, instance:com.suma.selenium.workingwithwindowelements.upload@1c14f68]"
+					name="Launchbrowser" is-config="true" duration-ms="18364"
+					started-at="2019-05-30T13:46:02Z" finished-at="2019-05-30T13:46:21Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- Launchbrowser -->
+				<test-method status="PASS"
+					signature="uploadimage()[pri:0, instance:com.suma.selenium.workingwithwindowelements.upload@1c14f68]"
+					name="uploadimage" duration-ms="38626" started-at="2019-05-30T13:46:21Z"
+					finished-at="2019-05-30T13:46:59Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- uploadimage -->
+			</class> <!-- com.suma.selenium.workingwithwindowelements.upload -->
+		</test> <!-- Default test -->
+	</suite> <!-- Default suite -->
 </testng-results>
